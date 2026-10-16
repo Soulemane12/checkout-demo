@@ -1,0 +1,13 @@
+{
+  "name": "checkout-demo",
+  "version": "0.1.0",
+  "description": "Deliberately broken checkout library for a CommandOS GitHub-to-Daytona repair demo",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test --test-reporter=tap"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
